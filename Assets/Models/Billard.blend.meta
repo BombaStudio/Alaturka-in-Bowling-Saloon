@@ -3,7 +3,57 @@ guid: 755f24079c1d95d479d0e198797c595e
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blanc
+    second: {fileID: 2100000, guid: e3ca3b480860d2d438c81b04f907f45e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bleu
+    second: {fileID: 2100000, guid: 4977d72043ba45b47be98b97d7d1370d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bois
+    second: {fileID: 2100000, guid: d5fc40c08ab91314784b3d3a64c28aee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bois clair
+    second: {fileID: 2100000, guid: 27893cd9865ebb744bfdef10e0d833f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome
+    second: {fileID: 2100000, guid: fd2ea573d15ff9f4a9844ce1f762d8fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaune
+    second: {fileID: 2100000, guid: 34f776207b31ab44ebec2cc61da06942, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Noir
+    second: {fileID: 2100000, guid: de90dd07ab3c34845a15316ab5cb24d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Noir Mat
+    second: {fileID: 2100000, guid: 89b73598658021d43bbe654ac895466a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rouge
+    second: {fileID: 2100000, guid: 57a15940a3e8a4244a5200274436bd8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tapis
+    second: {fileID: 2100000, guid: a503e78c603d1f544be1acdded8d69ad, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
