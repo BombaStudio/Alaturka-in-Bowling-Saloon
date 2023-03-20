@@ -10,4 +10,7 @@
 </li><li><a href="https://ambientcg.com/" target="_blank">AmbientCG</a>&nbsp;for textures
 </li><li><a href="https://sketchfab.com/3d-models/billard-2ee32fdb0e6743ed971f6bc143ca81de" target="_blank">Billard</a>&nbsp;model
 </li><li><a href="https://sketchfab.com/3d-models/old-soviet-fluorescent-light-6a50b0a1a60544bdbc569b84ef5e5b85" target="_blank">Old Soviet fluorescent light</a>&nbsp;that fluorescent light model
-</li></ul>
+</li>
+<li>Character models are created with <a href="https://store.steampowered.com/app/257400/Fuse/">Fuse</a></li>
+<li>Character animations are used with <a href="https://www.mixamo.com/">Mixamo</a></li>
+</ul>
