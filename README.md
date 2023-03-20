@@ -13,4 +13,5 @@
 </li>
 <li>Character models are created with <a href="https://store.steampowered.com/app/257400/Fuse/">Fuse</a></li>
 <li>Character animations are used with <a href="https://www.mixamo.com/">Mixamo</a></li>
+<li>Steam connections with <a href="https://github.com/rlabrecque/Steamworks.NET">Steamworks</a></li>
 </ul>
